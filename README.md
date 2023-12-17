@@ -1,4 +1,4 @@
-View [here](https://michealparks.github.io/game-dialogue/).
+View [here](https://postcurious.github.io/game-dialogue/).
 
 The [Koschei Society](https://www.koscheisociety.org/) webchat service from the puzzle adventure game [The Emerald Flame](https://www.getpostcurious.com/emeraldflame).
 

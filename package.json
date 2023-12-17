@@ -1,6 +1,6 @@
 {
   "name": "game-dialogue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "scripts": {
     "start": "vite --host",
@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michealparks/game-dialogue.git"
+    "url": "git+https://github.com/postcurious/game-dialogue.git"
   },
   "bugs": {
-    "url": "https://github.com/michealparks/game-dialogue/issues"
+    "url": "https://github.com/postcurious/game-dialogue/issues"
   },
   "dependencies": {
     "@rollup/plugin-yaml": "^3.1.0",
