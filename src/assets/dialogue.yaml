@@ -85,7 +85,7 @@ dialogue:
   - key: start
     sleepBefore: 0
     text: >-
-      Hello! Welcome to Koschei Society webchat service. To continue, please enter the month of our most recent correspondence.
+      Hello! Welcome to Koschei Society webchat service. To continue, ENTER THE NAME OF THE MONTH on our most recent correspondence.
     waitFor:
       - sleepBefore: 0
         answers:
